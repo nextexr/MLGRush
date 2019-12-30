@@ -1,6 +1,6 @@
-name: MLGRush
-main: ImNotYourDev\MLGRush\MLGRush
-api: 3.8.0
-version: 1.0
+name: MLGRushBETTER
+main: Nextext\MLGRush\MLGRush
+api: 5.0.0
+version: 2.0
 
-author: ImNotYourDev aka. HonorGamerHD
+author: nextexr
